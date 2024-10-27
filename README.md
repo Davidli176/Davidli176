@@ -1,0 +1,7 @@
+- 👋 Olá, eu sou @Davidli176
+- 👀 Tenho interesse em desenvolvimento de sistemas e tecnologias inovadoras.
+- 🌱 Atualmente, estou aprendendo mais sobre desenvolvimento web e algoritmos.
+- 💞️ Estou em busca de colaborar em projetos de código aberto ou que envolvam aprendizado de máquinas e automação.
+- 📫 Você pode entrar em contato comigo pelo e-mail ou através do meu LinkedIn.
+- 😄 Pronomes: ele/dele
+- ⚡ Curiosidade: Adoro explorar novas linguagens de programação e sou fã de jogos de estratégia!
